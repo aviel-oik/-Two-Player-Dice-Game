@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "name": "two-player-dice-game",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000w\u0000o\u0000-\u0000P\u0000l\u0000a\u0000y\u0000e\u0000r\u0000-\u0000D\u0000i\u0000c\u0000e\u0000-\u0000G\u0000a\u0000m\u0000e\u0000\r\u0000 \u0000-\u0000 \u0000A\u0000v\u0000i\u0000e\u0000l\u0000 \u0000O\u0000i\u0000k\u0000n\u0000i\u0000n\u0000e\u0000\r\u0000 \u0000-\u0000 \u00003\u00002\u00009\u00009\u00006\u00009\u00006\u00001\u00002\u0000\r\u0000 \u0000-\u0000 \u0000H\u0000e\u0000r\u0000m\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "helpFunctionFile.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviel-oik/-Two-Player-Dice-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aviel-oik/-Two-Player-Dice-Game/issues"
+  },
+  "homepage": "https://github.com/aviel-oik/-Two-Player-Dice-Game#readme"
+}

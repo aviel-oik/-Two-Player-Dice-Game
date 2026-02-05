@@ -1,0 +1,70 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #ffffff;
+    margin: 0;
+}
+
+header {
+    background: #ff0000;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+}
+header p{
+    font-size: large;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+.gamer-1{
+    background-color: rgb(255, 230, 0);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.gamer-2{
+    background-color: rgb(255, 230, 0);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.isPlay{
+    background-color: rgb(255, 230, 0);
+    border: #ff0000 7px solid;
+    border-radius: 5px;
+    text-align: center;
+}
+.isWin{
+    background-color: rgb(81, 255, 0);
+    border: #ff0000 7px solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+footer{
+    height: 20vh;
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    padding: 5px;
+    border: solid 0.5px black;
+}
+
